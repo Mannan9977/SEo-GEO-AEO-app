@@ -1,0 +1,6 @@
+{
+  "name": "SEO, AEO & GEO Toolkit",
+  "description": "Comprehensive toolkit for search, answer engine, and generative engine optimization with real-time AI simulation and recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
